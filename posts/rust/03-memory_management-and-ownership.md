@@ -1,10 +1,9 @@
 ---
-title: Learning Rust 03: Memory Management and Ownership
-date: "2024-08-19"
+title: "Learning Rust 03: Memory Management and Ownership"
+date: '2024-08-19'
 category: Rust
 tags: rust
-summary: "Learn about Rust's memory management, ownership, borrowing, lifetimes,
- smart pointers, and interior mutability."
+summary: "Learn about Rust's memory management, ownership, borrowing, lifetimes, smart pointers, and interior mutability."
 ---
 
 ## Table of Contents

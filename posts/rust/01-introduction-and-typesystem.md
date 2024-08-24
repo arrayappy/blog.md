@@ -1,11 +1,11 @@
 ---
-title: Learning Rust 01: Introduction and Basics
-date: "2024-08-15"
+title: "Learning Rust 01: Introduction and Basics"
+date: '2024-08-15'
 category: Rust
 tags: rust
-summary: "Learn about Rust's features, installation, variables and mutability, 
-data types, expressions, control flow, functions, modules, and comments."
+summary: "Learn about Rust's features, installation, variables and mutability, data types, expressions, control flow, functions, modules, and comments."
 ---
+
 
 ## Table of Contents
 

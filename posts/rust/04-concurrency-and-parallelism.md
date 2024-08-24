@@ -1,10 +1,9 @@
 ---
-title: Learning Rust 04: Concurrency and Parallelism
-date: "2024-08-22"
+title: "Learning Rust 04: Concurrency and Parallelism"
+date: '2024-08-22'
 category: Rust
 tags: rust
-summary: "Learn about Rust's concurrency and parallelism, including threads, 
-channels, and async programming."
+summary: "Learn about Rust's concurrency and parallelism, including threads, channels, and async programming."
 ---
 
 ## Table of Contents

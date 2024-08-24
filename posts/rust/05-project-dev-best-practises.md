@@ -1,11 +1,9 @@
 ---
-title: Learning Rust 05: Project Development Best Practices
-date: "2024-08-24"
+title: "Learning Rust 05: Project Development Best Practices"
+date: '2024-08-24'
 category: Rust
 tags: rust
-summary: "Learn about Rust's project organization, cargo, toolchain, modules & 
-visibility, crates, packages, workspaces, formatting, and documentation, 
-testing, and unsafe code."
+summary: "Learn about Rust's project organization, cargo, toolchain, modules & visibility, crates, packages, workspaces, formatting, and documentation, testing, and unsafe code."
 ---
 
 ## Table of Contents

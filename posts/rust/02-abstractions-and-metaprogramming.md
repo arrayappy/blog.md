@@ -1,6 +1,6 @@
 ---
-title: Learning Rust 02: Abstractions and Metaprogramming
-date: "2024-08-17"
+title: "Learning Rust 02: Abstractions and Metaprogramming"
+date: '2024-08-17'
 category: Rust
 tags: rust
 summary: "Learn about Rust's generics, traits, trait objects, and macros."
