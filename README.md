@@ -10,3 +10,8 @@ Welcome to collection of my technical writings. These are mostly related to smar
 
 3. [Sealevel Attacks](posts/solana/sealevel-attacks.md)
 
+### Work in Progress
+
+- [Fly.io Distributed Systems Challenge](drafts/dist-sys/fly-io-challenge.md)
+
+- [Optimizing Solana Programs with Pinocchio](drafts/solana/03-optimizing-programs-pinocchio.md)
